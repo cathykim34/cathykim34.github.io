@@ -12,3 +12,8 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.titleBar{
+	background-color: #DAF7A6;
+	color: #F7A6C6;
+}
